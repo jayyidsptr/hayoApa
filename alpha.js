@@ -10,7 +10,7 @@ const fs = require('fs')
 const os = require('os')
 const speed = require('performance-now')
 
-if (BOT_TOKEN == 'YOUR_TELEGRAM_BOT_TOKEN') {
+if (BOT_TOKEN == '6365639912:AAGuPa4A4OBVZdPwGCk0OBapFDEduERBwFo') {
     return console.log(lang.noToken)
 }
 
